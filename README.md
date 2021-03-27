@@ -1,6 +1,6 @@
 # ML2020 课程笔记
 
-李宏毅老师 [Machine Learning (2020,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) 课程笔记
+李宏毅 [Machine Learning (2020,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) 课程笔记
 
 #### 
 
