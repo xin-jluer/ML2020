@@ -4,7 +4,7 @@
 
 #### 
 
-- 包含除 GAN(10 videos) 和 RL Advanced Version (8 videos, option) 外的其他课程内容
+- 待更新: RL Advanced Version (8 videos, option) ; ML2021
 - 补充了 [Machine Learning (2016,Fall)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 中的课程内容，如 Structured Learning、SVM、Ensemble
 - 不包含助教补充内容
 
