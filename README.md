@@ -4,8 +4,8 @@
 
 #### 
 
-- 待更新: RL Advanced Version (8 videos, option) ; ML2021
 - 补充了 [Machine Learning (2016,Fall)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 中的课程内容，如 Structured Learning、SVM、Ensemble
+- 补充了 [Machine Learning (2021,Spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) 中的Batch Normalization
 - 不包含助教补充内容
 
 #### 
